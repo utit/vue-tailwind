@@ -1,8 +1,7 @@
 # vue-tailwind
 
 ## demo
-
-<a href="https://utit.github.io/vue-tailwind/" target="_blank">Demo</a>
+<a href="https://utit.github.io/vue-tailwind/" target="_blank" rel="noopener">Demo</a>
 
 ## Clone
 ```
