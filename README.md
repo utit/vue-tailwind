@@ -1,5 +1,16 @@
 # vue-tailwind
 
+## Clone
+```
+git clone git@github.com:utit/vue-tailwind.git
+```
+
+use degit
+
+```
+degit git@github.com:utit/vue-tailwind.git
+```
+
 ## Project setup
 ```
 yarn install
