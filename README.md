@@ -1,5 +1,9 @@
 # vue-tailwind
 
+## demo
+
+<a href="https://utit.github.io/vue-tailwind/" target="_blank">Demo</a>
+
 ## Clone
 ```
 git clone git@github.com:utit/vue-tailwind.git
@@ -8,7 +12,7 @@ git clone git@github.com:utit/vue-tailwind.git
 use degit
 
 ```
-degit git@github.com:utit/vue-tailwind.git
+degit git@github.com:utit/vue-tailwind.git <project-name>
 ```
 
 ## Project setup
